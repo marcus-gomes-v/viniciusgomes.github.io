@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1639085156128,
+  "timestamp": 1639085560019,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -140,7 +140,7 @@
     "/favicon.ico": "f0fc5ca331b26ce3745a09df65205695e75bfef6",
     "/index.html": "08a8d89a498b6dc55b2223e584a865d70813c8fc",
     "/main.9785e3b3c35c0f28.js": "9d702d080bff3b08537794d3dba9497f9040b423",
-    "/manifest.webmanifest": "54833b5b7eec428dd1bdd46c2b30eb4279cd734d",
+    "/manifest.webmanifest": "427fe0d199d7a32af757883a86b4211c976daaa7",
     "/polyfills.eda449d8a446358c.js": "f4a410ebbdbe1bbc7b0b414137b7d6aa5f2f66d8",
     "/runtime.4b7ffd1a0a2366e8.js": "183e866f5d4a6c8ea21e204734d98a88508b221b",
     "/styles.9128ffa4f866b334.css": "45bec0cb0c55b8b9941e666b814c516cde2a378a"
