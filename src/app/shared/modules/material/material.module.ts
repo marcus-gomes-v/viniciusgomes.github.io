@@ -16,6 +16,8 @@ import { MatListModule } from '@angular/material/list';
 import { DashboardSchematicComponent } from '../../../dashboard-schematic/dashboard-schematic.component';
 import { MatGridListModule } from '@angular/material/grid-list';
 import { MatMenuModule } from '@angular/material/menu';
+import {MatExpansionModule} from '@angular/material/expansion';
+
 
 const materialModules = [
   MatIconModule,
@@ -31,7 +33,8 @@ const materialModules = [
   MatIconModule,
   MatListModule,
   MatGridListModule,
-  MatMenuModule
+  MatMenuModule,
+  MatExpansionModule
 ];
 
 @NgModule({
